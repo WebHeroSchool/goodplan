@@ -1,6 +1,12 @@
-body {font-family:Roboto;
+body {
+   font-family: Roboto;
 }
-p{color: blue;
+h1 {
+   color: yellow;
 }
-button{color: coral;
+p {
+   color: blue;
+}
+button {
+   color: coral;
 }
